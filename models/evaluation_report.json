@@ -1,0 +1,18 @@
+{
+  "retrieval_precision_at_1": 1.0,
+  "retrieval_precision_at_3": 1.0,
+  "decision_distribution_sample_500": {
+    "LIKELY_APPROVED": 398,
+    "HIGH_DENIAL_RISK": 102
+  },
+  "projected_savings_10k_claims": {
+    "num_claims": 10000,
+    "manual_hours": 5666.67,
+    "automated_hours": 1700.0,
+    "hours_saved": 3966.67,
+    "manual_cost_usd": 181333.33,
+    "automated_cost_usd": 54400.0,
+    "savings_usd": 126933.33,
+    "savings_pct": 0.7
+  }
+}
